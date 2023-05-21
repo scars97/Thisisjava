@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author qktjd
+ *
+ */
+module thisisjava {
+}

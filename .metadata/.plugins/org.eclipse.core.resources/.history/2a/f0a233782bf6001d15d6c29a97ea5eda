@@ -1,0 +1,10 @@
+package thread;
+
+public class BeepThread {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

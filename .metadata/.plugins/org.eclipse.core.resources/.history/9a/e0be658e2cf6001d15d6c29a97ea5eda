@@ -1,0 +1,32 @@
+package thread;
+
+import java.awt.Toolkit;
+
+public class BeepPrintExample2 {
+
+	public static void main(String[] args) {
+		
+//		Runnable beepTask = new BeepTask();	
+//		Thread thread = new Thread(beepTask);
+		Thread thread = new Thread(() -> {
+			Toolkit toolkit = Toolkit.getDefaultToolkit();
+			for (int i = 0; i < 5; i++) {
+				toolkit.beep();//소리
+				try {
+					Thread.sleep(1000);//1초 간격
+				}catch(Exception e) {
+				}
+			}
+		});//람다식 변경
+		
+		thread.start();//BeepRunnable클래스의 메서드 실행.
+		
+		for (int i = 0; i < 5; i++) {
+			System.out.println("띵");
+			try {
+				Thread.sleep(2000);//2초 간격
+			}catch(Exception e) {
+			}
+		}
+	}
+}

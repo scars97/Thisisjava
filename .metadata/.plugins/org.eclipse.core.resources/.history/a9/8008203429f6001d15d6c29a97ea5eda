@@ -1,0 +1,12 @@
+package thread;
+
+import java.awt.*;
+
+public class BeepPrintExample1 {
+
+	public static void main(String[] args) {
+		
+		Toolkit toolkit = Toolkit.getDefaultToolkit();
+		for
+	}
+}

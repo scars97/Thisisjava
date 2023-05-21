@@ -1,0 +1,10 @@
+package threadEx.thread01;
+
+public class ThreadNameExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

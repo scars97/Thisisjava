@@ -1,0 +1,5 @@
+package threadEx.thread01;
+
+public class ThreadB {
+
+}

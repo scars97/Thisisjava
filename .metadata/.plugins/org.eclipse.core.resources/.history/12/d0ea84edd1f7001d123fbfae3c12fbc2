@@ -1,0 +1,5 @@
+package threadEx.thread02;
+
+public class CalcThread {
+
+}

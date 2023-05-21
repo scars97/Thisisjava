@@ -1,0 +1,10 @@
+package threadEx.thread04;
+
+public class ThreadStateExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
