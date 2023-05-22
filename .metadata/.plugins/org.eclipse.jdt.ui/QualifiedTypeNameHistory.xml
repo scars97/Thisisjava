@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="thread.BeepTask"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="thread.BeepThread"/>
     <fullyQualifiedTypeName name="java.nio.charset.IllegalCharsetNameException"/>
     <fullyQualifiedTypeName name="threadEx.thread02.CalcThread"/>
-    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="threadEx.thread03.Calculator"/>
     <fullyQualifiedTypeName name="java.lang.Thread.State"/>
     <fullyQualifiedTypeName name="threadEx.thread04.StatePrintThread"/>
     <fullyQualifiedTypeName name="threadEx.thread04.TargetThread"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
+    <fullyQualifiedTypeName name="threadEx.thread06.ThreadA"/>
+    <fullyQualifiedTypeName name="threadEx.thread06.SumThread"/>
+    <fullyQualifiedTypeName name="threadEx.thread06.WorkObject"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="threadEx.thread06.DataBox"/>
+    <fullyQualifiedTypeName name="threadEx.thread06.ProducerThread"/>
+    <fullyQualifiedTypeName name="threadEx.thread06.ConsumerThread"/>
+    <fullyQualifiedTypeName name="threadEx.thread06.thread06_05.PrintThread1"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="threadEx.thread07.AutoSaveThread"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.lang.StackTraceElement"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
 </qualifiedTypeNameHistroy>

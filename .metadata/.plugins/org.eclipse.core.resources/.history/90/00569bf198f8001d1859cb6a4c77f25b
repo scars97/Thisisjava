@@ -1,0 +1,9 @@
+package threadEx.thread07;
+
+public class DaemonExample {
+
+	public static void main(String[] args) {
+		AutoSaveThread autoSaveThread = new AutoSaveThread();
+		autoSaveThread.setDaemon(true);
+	}
+}

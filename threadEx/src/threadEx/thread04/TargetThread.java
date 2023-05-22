@@ -8,7 +8,7 @@ public class TargetThread extends Thread{
 		}
 		
 		try {//timed_waiting 상태(일시정지)
-			Thread.sleep(2000);//2초간 정지
+			Thread.sleep(1500);//2초간 정지
 		}catch(Exception e) {
 		}
 		

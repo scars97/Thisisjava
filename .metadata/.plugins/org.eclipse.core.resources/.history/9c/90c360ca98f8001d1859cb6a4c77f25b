@@ -1,0 +1,5 @@
+package threadEx.thread07;
+
+public class AutoSaveThread {
+
+}
